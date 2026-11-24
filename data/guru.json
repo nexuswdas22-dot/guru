@@ -1,0 +1,394 @@
+[
+  {
+    "nama": "Pak Rido",
+    "mapel": "Kepala Sekolah",
+    "deskripsi": "Pak Rido merupakan Kepala Sekolah SMK TI Garuda Nusantara yang telah memimpin selama kurang lebih empat tahun dalam mendorong peningkatan mutu pendidikan, membangun lingkungan belajar yang kondusif, serta memajukan pengembangan potensi siswa secara berkelanjutan.",
+    "foto": "/img/Bapak-Guru/pakridho.jpg",
+    "ucapan": "https://pakridho-topaz.vercel.app/"
+  },
+  {
+    "nama": "Pak Maman",
+    "mapel": "Wakil Kepala Sekolah",
+    "deskripsi": "Pak Maman merupakan Wakil Kepala Sekolah SMK TI Garuda Nusantara yang berperan dalam mendukung kegiatan dan perkembangan sekolah. Melalui dedikasi dan tanggung jawabnya, beliau turut membantu menciptakan lingkungan pendidikan yang baik serta mendukung kemajuan sekolah dan para siswa.",
+    "foto": "/img/Bapak-Guru/pakmaman.jpg",
+    "ucapan": "https://pakmaman.vercel.app/"
+  },
+  {
+    "nama": "Pak Adhit",
+    "mapel": "Kepala Jurusan DKV",
+    "deskripsi": "Pak Adhit merupakan Kepala Jurusan Desain Komunikasi Visual (DKV) di SMK TI Garuda Nusantara yang berperan dalam membimbing, mengembangkan, dan mendukung kreativitas serta keterampilan siswa di bidang desain dan seni visual. Melalui tanggung jawab dan dedikasinya, beliau turut membantu mengembangkan potensi siswa agar mampu menghasilkan karya yang kreatif, inovatif, dan memiliki nilai.",
+    "foto": "/img/Bapak-Guru/pakadhit.png",
+    "ucapan": "https://rainbow-paprenjak-d35635.netlify.app"
+  },
+  {
+    "nama": "Bu Veini",
+    "mapel": "Bahasa Inggris",
+    "deskripsi": "Bu Veini merupakan guru mata pelajaran Bahasa Inggris di SMK TI Garuda Nusantara yang membimbing siswa-siswi dalam memahami bahasa Inggris, meningkatkan kemampuan berkomunikasi, serta memperluas wawasan melalui pembelajaran bahasa asing.",
+    "foto": "/img/Ibu-Guru/buveini.jpeg",
+    "ucapan": "https://buveini.vercel.app/"
+  },
+  {
+    "nama": "Pak Matnur",
+    "mapel": "Matematika",
+    "deskripsi": "Pak Matnur merupakan guru Matematika di SMK TI Garuda Nusantara yang juga mengajar di Pasundan. Beliau berperan dalam membimbing siswa memahami konsep matematika, mengembangkan kemampuan berpikir logis, serta melatih ketelitian dan kemampuan memecahkan masalah melalui pembelajaran yang diberikan.",
+    "foto": "/img/Bapak-Guru/pakmatnur.jpeg",
+    "ucapan": "https://ucapan-untuk-pak-guru.vercel.app/"
+  },
+  {
+    "nama": "Pak Bambang",
+    "mapel": "Informatika",
+    "deskripsi": "Pak Bambang merupakan guru Informatika di SMK TI Garuda Nusantara yang membimbing siswa dalam memahami teknologi, ilmu komputer, serta berbagai keterampilan digital. Melalui pembelajaran yang diberikan, beliau turut membantu siswa mengembangkan kemampuan berpikir logis, memahami perkembangan teknologi, dan mempersiapkan diri menghadapi dunia digital.",
+    "foto": "/img/Bapak-Guru/pakbambang.png",
+    "ucapan": "https://pakbambang.vercel.app/"
+  },
+  {
+    "nama": "Pak Yudha",
+    "mapel": "Guru Produktif",
+    "deskripsi": "Pak Yudha merupakan guru produktif di SMK TI Garuda Nusantara yang membimbing siswa menguasai kompetensi kejuruan, mengasah keterampilan praktik industri, serta mempersiapkan kesiapan kerja secara profesional.",
+    "foto": "/img/Bapak-Guru/pakyudha.jpg",
+    "ucapan": "https://inspiring-melba-0103e6.netlify.app"
+  },
+  {
+    "nama": "Bu Dewi",
+    "mapel": "Kepala Jurusan MP",
+    "deskripsi": "Bu Dewi merupakan guru produktif Manajemen Perkantoran (MP) sekaligus Kepala Jurusan MP di SMK TI Garuda Nusantara yang berperan dalam membimbing siswa mengembangkan keterampilan administrasi, manajemen, dan profesionalisme dalam dunia kerja.",
+    "foto": "/img/Ibu-Guru/budewi.png",
+    "ucapan": "https://budewi.vercel.app/"
+  },
+  {
+    "nama": "Bu Lasma",
+    "mapel": "Bimbingan Konseling",
+    "deskripsi": "Bu Lasma merupakan guru Bimbingan dan Konseling (BK) sekaligus guru Pendidikan Agama Kristen (PAK) di SMK TI Garuda Nusantara yang berperan dalam membimbing siswa, membantu perkembangan karakter, serta menanamkan nilai-nilai kebaikan, moral, dan keagamaan dalam kehidupan sehari-hari.",
+    "foto": "/img/Ibu-Guru/bulasma.png",
+    "ucapan": "https://bulasma.vercel.app/"
+  },
+  {
+    "nama": "Bu Rani",
+    "mapel": "IPAS",
+    "deskripsi": "Bu Rani merupakan guru mata pelajaran Ilmu Pengetahuan Alam dan Sosial (IPAS) di SMK TI Garuda Nusantara yang membimbing siswa dalam memahami berbagai fenomena alam dan sosial, memperluas wawasan, serta mengembangkan rasa ingin tahu terhadap lingkungan dan kehidupan di sekitarnya.",
+    "foto": "/img/Ibu-Guru/burani.jpeg",
+    "ucapan": "https://phenomenal-piroshki-28326a.netlify.app"
+  },
+  {
+    "nama": "Pak Yusup",
+    "mapel": "Guru Produktif",
+    "deskripsi": "Pak Yusup merupakan guru produktif Rekayasa Perangkat Lunak (RPL) di SMK TI Garuda Nusantara yang membimbing siswa dalam memahami ilmu pemrograman serta mengembangkan kreativitas dan inovasi dalam bidang teknologi. Melalui pembelajaran yang diberikan, beliau mendorong siswa untuk berpikir kreatif, berani mencoba hal baru, dan mampu menghasilkan karya yang bermanfaat.",
+    "foto": "/img/Bapak-Guru/pakyusup.jpeg",
+    "ucapan": "https://brilliant-snickerdoodle-8f5156.netlify.app"
+  },
+  {
+    "nama": "Pak Irfan",
+    "mapel": "Guru Produktif",
+    "deskripsi": "Pak Irfan merupakan guru produktif Teknik Komputer dan Jaringan (TKJ) sekaligus bagian dari kesiswaan di SMK TI Garuda Nusantara yang berperan dalam membimbing siswa memahami teknologi jaringan komputer serta membantu menjaga kedisiplinan, mengembangkan karakter, dan menciptakan lingkungan sekolah yang tertib dan nyaman.",
+    "foto": "/img/Bapak-Guru/pakirfan.jpg",
+    "ucapan": "https://enchanting-duckanoo-15165e.netlify.app/index.html"
+  },
+  {
+    "nama": "Bu Resta",
+    "mapel": "Bahasa Inggris",
+    "deskripsi": "Bu Resta merupakan guru Bahasa Inggris di SMK TI Garuda Nusantara yang membimbing siswa dalam memahami bahasa Inggris, meningkatkan kemampuan berkomunikasi, serta mengembangkan keterampilan berbahasa untuk mendukung pendidikan dan mempersiapkan masa depan.",
+    "foto": "/img/Ibu-Guru/misresta.jpeg",
+    "ucapan": "https://misresta.vercel.app/"
+  },
+  {
+    "nama": "Pak Riki",
+    "mapel": "Kepala Jurusan TKJ",
+    "deskripsi": "Pak Riki merupakan Kepala Jurusan Teknik Komputer dan Jaringan (TKJ) di SMK TI Garuda Nusantara yang berperan dalam membimbing, mengembangkan, dan mendukung siswa dalam bidang teknologi komputer serta jaringan. Melalui tanggung jawabnya, beliau turut membantu mengembangkan kualitas pembelajaran dan potensi siswa agar siap menghadapi perkembangan teknologi.",
+    "foto": "/img/Bapak-Guru/pakriki.jpeg",
+    "ucapan": "https://pakriki.vercel.app/"
+  },
+  {
+    "nama": "Bu Ratna",
+    "mapel": "Matematika",
+    "deskripsi": "Bu Ratna merupakan guru Matematika di SMK TI Garuda Nusantara yang membimbing siswa dalam memahami berbagai konsep matematika, mengembangkan kemampuan berpikir logis, serta melatih ketelitian dan keterampilan dalam menyelesaikan berbagai permasalahan melalui pembelajaran.",
+    "foto": "/img/Ibu-Guru/buratna.jpeg",
+    "ucapan": "https://buratna.vercel.app/"
+  },
+  {
+    "nama": "Bu Zulfarida",
+    "mapel": "Guru Produktif",
+    "deskripsi": "Bu Zulfarida merupakan guru produktif Manajemen Perkantoran (MP) di SMK TI Garuda Nusantara yang membimbing siswa dalam memahami berbagai keterampilan dan pengetahuan di bidang administrasi serta pengelolaan perkantoran, sekaligus mempersiapkan mereka agar memiliki kompetensi dan sikap profesional di dunia kerja.",
+    "foto": "/img/Ibu-Guru/buzulfarida.png",
+    "ucapan": "https://buzulfarida.vercel.app/"
+  },
+  {
+    "nama": "Pak Dikdik",
+    "mapel": "Bahasa Indonesia",
+    "deskripsi": "Pak Dikdik merupakan guru Bahasa Indonesia di SMK TI Garuda Nusantara yang membimbing siswa dalam memahami bahasa, sastra, serta mengembangkan kemampuan membaca, menulis, berbicara, dan menyampaikan gagasan dengan baik melalui pembelajaran.",
+    "foto": "/img/Bapak-Guru/pakdikdik.png",
+    "ucapan": "https://ucapan-untuk-pakdikdik.vercel.app/"
+  },
+  {
+    "nama": "Pak Gelar",
+    "mapel": "Guru Produktif",
+    "deskripsi": "Pak Gelar merupakan guru produktif Desain Komunikasi Visual di SMK TI Garuda Nusantara yang membimbing siswa mengasah kreativitas visual, menguasai teknik perancangan grafis dan multimedia, serta menghasilkan karya desain komunikatif yang siap bersaing di industri kreatif.",
+    "foto": "/img/Bapak-Guru/pakgelar.jpg",
+    "ucapan": "https://pakgelar.vercel.app/"
+  },
+  {
+    "nama": "Pak Yandi",
+    "mapel": "Pendidikan Pancasila",
+    "deskripsi": "Pak Yandi merupakan guru Pendidikan Pancasila di SMK TI Garuda Nusantara yang membimbing siswa dalam memahami nilai-nilai Pancasila, menanamkan sikap cinta tanah air, serta mengembangkan karakter, tanggung jawab, dan kesadaran sebagai warga negara yang baik dalam kehidupan sehari-hari.",
+    "foto": "/img/Bapak-Guru/pakyandi.png",
+    "ucapan": "https://pakyandi.vercel.app/"
+  },
+  {
+    "nama": "Pak Rezi",
+    "mapel": "Bahasa Indonesia",
+    "deskripsi": "Pak Rezi merupakan guru Bahasa Indonesia sekaligus Wakasek Kurikulum di SMK TI Garuda Nusantara yang membimbing siswa mengasah literasi dan keterampilan berbahasa serta mengelola sistem pembelajaran agar berjalan efektif dan terstruktur.",
+    "foto": "/img/Bapak-Guru/pakrezi.jpeg",
+    "ucapan": "https://pakrezi.vercel.app/"
+  },
+  {
+    "nama": "Bu Pepi",
+    "mapel": "Bimbingan Konseling",
+    "deskripsi": "Bu Pepi merupakan guru Bimbingan dan Konseling di SMK TI Garuda Nusantara yang mendampingi siswa dalam pengembangan diri, perencanaan karier, serta penyelesaian masalah akademik maupun pribadi secara bijak.",
+    "foto": "/img/Ibu-Guru/bupepi.jpeg",
+    "ucapan": "https://bupepi.vercel.app/"
+  },
+  {
+    "nama": "Bu Fenty",
+    "mapel": "Bahasa Inggris",
+    "deskripsi": "Bu Fenty merupakan guru Bahasa Inggris di SMK TI Garuda Nusantara yang membimbing siswa mengasah keterampilan komunikasi, pemahaman bacaan, serta kepercayaan diri berbahasa Inggris untuk kebutuhan akademik dan global.",
+    "foto": "/img/Ibu-Guru/bufenty.jpeg",
+    "ucapan": "https://bufenty.vercel.app/"
+  },
+  {
+    "nama": "Pak Hari",
+    "mapel": "Guru Produktif",
+    "deskripsi": "Pak Hari merupakan guru produktif Manajemen Perkantoran sekaligus Wakasek Kesiswaan di SMK TI Garuda Nusantara yang membimbing siswa menguasai kompetensi administrasi perkantoran serta membina kedisiplinan, karakter, dan kegiatan kesiswaan.",
+    "foto": "/img/Bapak-Guru/pakhari.jpeg",
+    "ucapan": "https://buat-bapaa.vercel.app/"
+  },
+  {
+    "nama": "Bu Niken",
+    "mapel": "Guru Produktif",
+    "deskripsi": "Bu Niken merupakan guru produktif Rekayasa Perangkat Lunak di SMK TI Garuda Nusantara yang membimbing siswa menguasai logika pemrograman, pengembangan aplikasi, serta praktik rekayasa perangkat lunak secara terstruktur.",
+    "foto": "/img/Ibu-Guru/buniken.png",
+    "ucapan": "https://websiteteacherday.netlify.app"
+  },
+  {
+    "nama": "Bu Putri",
+    "mapel": "Matematika",
+    "deskripsi": "Bu Putri Merupakan Guru Matematika SMK TI GARUDA NUSANTARA Beliau Juga Merupakan lulusan S1 Matematika Di Universitas Pasundan Beliau Telah Mengajar Kami Dengan Penuh Kaih Sayang Dan Dedikasi Beliau Sangat Berarti Bagi Kami",
+    "foto": "/img/Ibu-Guru/buputri.jpeg",
+    "ucapan": "https://teacherdayp.netlify.app/"
+  },
+  {
+    "nama": "Bu Eliza",
+    "mapel": "Bahasa Indonesia",
+    "deskripsi": "Bu Eliza merupakan guru Bahasa Indonesia di SMK TI Garuda Nusantara yang membimbing siswa menguasai kaidah bahasa dan sastra, mengekspresikan gagasan secara santun, serta memaknai komunikasi lisan maupun tulisan dengan saling menghargai.",
+    "foto": "/img/Ibu-Guru/buell.jpeg",
+    "ucapan": "https://buelija.vercel.app/"
+  },
+  {
+    "nama": "Pak Ikang",
+    "mapel": "Kepala Jurusan RPL",
+    "deskripsi": "Pak Ikang Merupakan Guru SMK TI GARUDA NUSANTARA,Baru Baru ini Beliau Menjadi KEPALA JURUSAN REKAYASA PERANGKAT LUNAK, Meskipun Baru Menjabat Sebagai Kepala Jurusan Itu Sebentar Tapi Dedikasi Beliau Di RPL Sungguh Memiliki Makna Yang Dalam",
+    "foto": "/img/Bapak-Guru/pakikang.png",
+    "ucapan": "https://pakikang.vercel.app/"
+  },
+  {
+    "nama": "Pak Iqbal",
+    "mapel": "Kepala Jurusan TJA",
+    "deskripsi": "Pak Iqbal merupakan Kepala Jurusan Teknik Jaringan Akses Telekomunikasi di SMK TI Garuda Nusantara yang membimbing siswa menguasai kompetensi infrastruktur jaringan dan telekomunikasi serta mengarahkan pengembangan program keahlian secara optimal.",
+    "foto": "/img/Bapak-Guru/pakiqbal.png",
+    "ucapan": "https://pakiqbal.vercel.app/"
+  },
+  {
+    "nama": "Ibu Rere",
+    "mapel": "Guru Produktif",
+    "deskripsi": "Bu Renia, atau Bu Rere, merupakan Guru Kurikulum sekaligus guru produktif Manajemen Perkantoran (MP) di SMK TI Garuda Nusantara yang berperan dalam mengatur pembelajaran serta membimbing siswa",
+    "foto": "/img/Ibu-Guru/burere.jpeg",
+    "ucapan": "https://merry-paprenjak-6defc5.netlify.app"
+  },
+  {
+    "nama": "Bu Repri",
+    "mapel": "Guru Produktif",
+    "deskripsi": "Bu Repri merupakan guru produktif Teknik Komputer dan Jaringan di SMK TI Garuda Nusantara yang membimbing siswa menguasai perakitan komputer, administrasi server, serta konfigurasi dan keamanan jaringan secara praktis.",
+    "foto": "/img/Ibu-Guru/burepri.jpeg",
+    "ucapan": "https://burepri.vercel.app/"
+  },
+  {
+    "nama": "Bu Desy",
+    "mapel": "Guru Produktif",
+    "deskripsi": "Bu Desy merupakan guru produktif Teknik Komputer dan Jaringan di SMK TI Garuda Nusantara yang membimbing siswa menguasai instalasi jaringan, pemeliharaan perangkat keras, serta pemecahan masalah teknis secara efektif.",
+    "foto": "/img/Ibu-Guru/budesy.jpeg",
+    "ucapan": "https://budesy.vercel.app/"
+  },
+  {
+    "nama": "Bu Novera",
+    "mapel": "Bimbingan Konseling",
+    "deskripsi": "Bu Novera merupakan guru Bimbingan dan Konseling di SMK TI Garuda Nusantara yang mendampingi siswa dalam mengenali potensi diri, menjaga kesehatan mental, serta mengarahkan pilihan studi dan karier secara tepat.",
+    "foto": "/img/Ibu-Guru/bunovera.jpeg",
+    "ucapan": "https://bunovera.vercel.app/"
+  },
+  {
+    "nama": "Pak Imam",
+    "mapel": "Guru Produktif",
+    "deskripsi": "Pak Imam merupakan guru produktif Rekayasa Perangkat Lunak di SMK TI Garuda Nusantara yang membimbing siswa menguasai perancangan sistem, pengembangan perangkat lunak, serta penerapan standar pemrograman secara profesional.",
+    "foto": "/img/Bapak-Guru/pakimam.jpg",
+    "ucapan": "https://astounding-empanada-c9cfca.netlify.app/"
+  },
+  {
+    "nama": "Bu Ghina",
+    "mapel": "Matematika",
+    "deskripsi": "Bu Ghina merupakan guru Matematika di SMK TI Garuda Nusantara yang membimbing siswa mengasah kemampuan berhitung, penalaran logis, serta pemecahan masalah secara sistematis dan aplikatif.",
+    "foto": "/img/Ibu-Guru/bughina.jpeg",
+    "ucapan": "https://bughina.vercel.app/"
+  },
+  {
+    "nama": "Bu Syifa",
+    "mapel": "Matematika",
+    "deskripsi": "Bu Syifa merupakan guru Matematika di SMK TI Garuda Nusantara yang membimbing siswa mengasah logika numerik, ketelitian analisis, serta kemampuan pemecahan masalah secara terstruktur dan aplikatif.",
+    "foto": "/img/Ibu-Guru/busyifa.jpeg",
+    "ucapan": "https://busyifa.vercel.app/"
+  },
+  {
+    "nama": "Pak Asep",
+    "mapel": "Guru Produktif",
+    "deskripsi": "Pak Asep merupakan guru Teknik Komputer dan Jaringan di SMK TI Garuda Nusantara yang membimbing siswa menguasai pengelolaan jaringan, konfigurasi perangkat keras, serta pemecahan masalah sistem secara terstruktur.",
+    "foto": "/img/Bapak-Guru/pakasep.jpeg",
+    "ucapan": "https://pakasep-eight.vercel.app/"
+  },
+  {
+    "nama": "Pak Nana",
+    "mapel": "PAI",
+    "deskripsi": "Pak Nana merupakan guru Pendidikan Agama Islam di SMK TI Garuda Nusantara yang membimbing siswa dalam memahami ajaran agama, memperkuat keimanan dan ketakwaan, serta menanamkan akhlak mulia dalam kehidupan sehari-hari.",
+    "foto": "/img/Bapak-Guru/paknana.jpeg",
+    "ucapan": "https://paknana.vercel.app/"
+  },
+  {
+    "nama": "Pak Windi",
+    "mapel": "Guru Produktif",
+    "deskripsi": "Pak Windi merupakan guru produktif Desain Komunikasi Visual di SMK TI Garuda Nusantara yang membimbing siswa mengasah kreativitas visual, penguasaan perangkat lunak desain, serta perancangan karya komunikasi grafis secara profesional.",
+    "foto": "/img/Bapak-Guru/pakwindy.jpeg",
+    "ucapan": "https://pakwindi.vercel.app/"
+  },
+  {
+    "nama": "Bu Adera",
+    "mapel": "Kepala Jurusan ANIMASI",
+    "deskripsi": "Bu Adera merupakan Kepala Jurusan Animasi di SMK TI Garuda Nusantara yang membimbing siswa menguasai teknik animasi, alur produksi kreatif, serta mengarahkan pengembangan kompetensi keahlian secara optimal.",
+    "foto": "/img/Ibu-Guru/buadera.jpeg",
+    "ucapan": "https://buadera.vercel.app/"
+  },
+  {
+    "nama": "Pak Rizki",
+    "mapel": "Kesiswaan",
+    "deskripsi": "Pak Rizki merupakan bagian dari bidang Kesiswaan sekaligus guru berbagai mata pelajaran di SMK TI Garuda Nusantara yang mendampingi pembinaan karakter dan kegiatan siswa serta membimbing pembelajaran secara adaptif dan terarah.",
+    "foto": "/img/Bapak-Guru/pakrizkikesiswaan.jpeg",
+    "ucapan": "https://aquamarine-kleicha-5289a2.netlify.app"
+  },
+  {
+    "nama": "Pak Rizky",
+    "mapel": "Guru Produktif",
+    "deskripsi": "Pak Rizky merupakan guru produktif Animasi di SMK TI Garuda Nusantara yang membimbing siswa menguasai teknik pembuatan animasi, pengembangan karakter, serta alur produksi visual secara kreatif dan profesional.",
+    "foto": "/img/Bapak-Guru/pakrisky.jpeg",
+    "ucapan": "https://pakrizkyanimasi.vercel.app/"
+  },
+  {
+    "nama": "Pak Hilmi",
+    "mapel": "PAI",
+    "deskripsi": "Pak Hilmi merupakan guru Pendidikan Agama Islam di SMK TI Garuda Nusantara yang membimbing siswa dalam mendalami nilai-nilai keagamaan, memperkuat ketakwaan, serta mengamalkan akhlak terpuji dalam keseharian.",
+    "foto": "/img/Bapak-Guru/pakhilmi.jpeg",
+    "ucapan": "https://admirable-froyo-bf7da7.netlify.app"
+  },
+  {
+    "nama": "Bu Sheliani",
+    "mapel": "Bahasa Mandarin",
+    "deskripsi": "Bu Sheliani merupakan guru Bahasa Mandarin di SMK TI Garuda Nusantara yang membimbing siswa menguasai pelafalan, kosakata, serta kemampuan berkomunikasi dalam bahasa Mandarin secara aktif dan komunikatif.",
+    "foto": "/img/Ibu-Guru/busheliani.jpg",
+    "ucapan": "https://regal-alpaca-d34f69.netlify.app"
+  },
+  {
+    "nama": "Pak Ramdhan",
+    "mapel": "PJOK",
+    "deskripsi": "Pak Ramdhan merupakan staf bidang Kesiswaan sekaligus guru Pendidikan Jasmani, Olahraga, dan Kesehatan di SMK TI Garuda Nusantara yang mendampingi kedisiplinan serta kegiatan siswa dan membimbing kebugaran jasmani serta sportivitas secara aktif.",
+    "foto": "/img/Bapak-Guru/pakramdhan.jpeg",
+    "ucapan": "https://6b054f490357b33c9998b071--tangerine-zabaione-309513.netlify.app/"
+  },
+  {
+    "nama": "Bu Zahira",
+    "mapel": "PJOK",
+    "deskripsi": "Bu Zahira merupakan guru Pendidikan Jasmani, Olahraga, dan Kesehatan di SMK TI Garuda Nusantara yang membimbing siswa menjaga kesehatan fisik, mengembangkan keterampilan gerak, serta menerapkan pola hidup aktif dan bugar.",
+    "foto": "/img/Ibu-Guru/buzahira.jpeg",
+    "ucapan": "https://lustrous-cassata-f3dcf0.netlify.app/"
+  },
+  {
+    "nama": "Bu Sisca",
+    "mapel": "Bahasa Inggris",
+    "deskripsi": "Bu Sisca merupakan guru Bahasa Inggris di SMK TI Garuda Nusantara yang membimbing siswa mengasah kemampuan berkomunikasi secara aktif, memperluas kosakata, serta memahami teks berbahasa Inggris secara percaya diri.",
+    "foto": "/img/Ibu-Guru/busisca.jpg",
+    "ucapan": "https://teachersdaymssisca.netlify.app/"
+  },
+  {
+    "nama": "Bu Renia",
+    "mapel": "Guru Produktif",
+    "deskripsi": "Bu Renia merupakan guru produktif Manajemen Perkantoran di SMK TI Garuda Nusantara yang membimbing siswa menguasai pengelolaan administrasi, korespondensi bisnis, serta tata kelola perkantoran modern secara terampil dan profesional.",
+    "foto": "/img/Ibu-Guru/burenia.jpeg",
+    "ucapan": "https://burenia.vercel.app/"
+  },
+  {
+    "nama": "Bu Syanti",
+    "mapel": "Pendidikan Pancasila",
+    "deskripsi": "Bu Syanti merupakan guru Pendidikan Pancasila di SMK TI Garuda Nusantara yang membimbing siswa memahami nilai-nilai kebangsaan, menumbuhkan kesadaran berkonstitusi, serta mengamalkan etika bermasyarakat secara demokratis.",
+    "foto": "/img/Ibu-Guru/busyanti.jpeg",
+    "ucapan": "https://busyanti.vercel.app/"
+  },
+  {
+    "nama": "Bu Asria",
+    "mapel": "Bahasa Indonesia",
+    "deskripsi": "Bu Asria merupakan guru Bahasa Indonesia di SMK TI Garuda Nusantara yang membimbing siswa mengasah keterampilan berbahasa, menyusun gagasan tertulis maupun lisan secara runtut, serta menumbuhkan apresiasi literasi.",
+    "foto": "/img/Ibu-Guru/buasria.jpeg",
+    "ucapan": "https://graceful-sunflower-e42d09.netlify.app"
+  },
+  {
+    "nama": "Bu Fera",
+    "mapel": "IPAS",
+    "deskripsi": "Bu Fera merupakan guru Ilmu Pengetahuan Alam dan Sosial di SMK TI Garuda Nusantara yang membimbing siswa memahami fenomena alam, menganalisis interaksi sosial, serta mengembangkan pola pikir ilmiah secara kritis.",
+    "foto": "/img/Ibu-Guru/bufera.jpeg",
+    "ucapan": "https://heartfelt-marshmallow-077bb6.netlify.app"
+  },
+  {
+    "nama": "Pak Rafidj",
+    "mapel": "PJOK",
+    "deskripsi": "Pak Rafidj merupakan guru Pendidikan Jasmani, Olahraga, dan Kesehatan di SMK TI Garuda Nusantara yang membimbing siswa mengasah kelincahan fisik, menguasai teknik olahraga, serta menanamkan disiplin dan jiwa sportif secara konsisten.",
+    "foto": "/img/Bapak-Guru/pakrafid.jpeg",
+    "ucapan": "https://pakrafid.vercel.app/"
+  },
+  {
+    "nama": "Bu Wulan",
+    "mapel": "Pendidikan Pancasila",
+    "deskripsi": "Bu Wulan (akrab disapa Bu Ulul) merupakan guru Pendidikan Kewarganegaraan di SMK TI Garuda Nusantara yang membimbing siswa memahami hak dan kewajiban warga negara, menanamkan semangat persatuan, serta membangun karakter berkebangsaan secara bijak.",
+    "foto": "/img/Ibu-Guru/buulul.png",
+    "ucapan": "https://benevolent-pixie-6f73f2.netlify.app/"
+  },
+  {
+    "nama": "Bu Diana",
+    "mapel": "Bahasa Daerah",
+    "deskripsi": "Bu Diana merupakan guru Bahasa Daerah di SMK TI Garuda Nusantara yang membimbing siswa melestarikan kearifan lokal, menguasai tata bahasa serta unggah-ungguh, dan menumbuhkan kebanggaan terhadap warisan budaya daerah.",
+    "foto": "/img/Ibu-Guru/budiana.jpeg",
+    "ucapan": "https://phenomenal-lebkuchen-31611a.netlify.app"
+  },
+  {
+    "nama": "Bu Ratika",
+    "mapel": "Seni Budaya",
+    "deskripsi": "Bu Ratika merupakan guru Seni Musik di SMK TI Garuda Nusantara yang membimbing siswa mengasah kepekaan musikal, mengeksplorasi harmoni nada, serta mengekspresikan kreativitas melalui permainan instrumen dan vokal.",
+    "foto": "/img/Ibu-Guru/buratika.jpeg",
+    "ucapan": "https://bu-guru-ratika.vercel.app/"
+  },
+  {
+    "nama": "Bu Mediana",
+    "mapel": "PJOK",
+    "deskripsi": "Bu Mediana merupakan guru Pendidikan Jasmani, Olahraga, dan Kesehatan di SMK TI Garuda Nusantara yang membimbing siswa memperkuat daya tahan fisik, mengasah keterampilan gerak olahraga, serta menanamkan kebiasaan hidup sehat dan sportif.",
+    "foto": "/img/Ibu-Guru/bumediana.jpeg",
+    "ucapan": "https://bucolic-florentine-d44bb7.netlify.app/"
+  },
+   {
+    "nama": "Bu Bina",
+    "mapel": "Bahasa Daerah",
+    "deskripsi": "Bu Bina merupakan guru Bahasa Sunda di SMK TI Garuda Nusantara yang membimbing siswa melestarikan bahasa dan aksara daerah, memahami nilai-nilai kearifan lokal, serta menanamkan tata krama dan etika budaya Sunda dalam kehidupan sehari-hari.",
+    "foto": "/img/Ibu-Guru/bubina.jpeg",
+    "ucapan": "https://grand-scone-792a21.netlify.app/"
+  }
+]
