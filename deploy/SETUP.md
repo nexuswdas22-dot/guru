@@ -92,3 +92,6 @@ cd ~/guru && bash deploy/deploy.sh
 | 502 Bad Gateway | Nginx mati? `systemctl status nginx`; origin jalan? `curl -I http://127.0.0.1` |
 | 1033 error (Cloudflare) | Tunnel tidak jalan / DNS route belum dibuat |
 | Halaman kosong | `ls /var/www/hari-guru` harus berisi `index.html` |
+| Muncul "Welcome to nginx!" | Config belum termuat — `systemctl restart nginx` (reload kadang tidak cukup) |
+| `route dns` gagal "record already exists" | Pakai flag penimpa: `cloudflared tunnel route dns -f <uuid> <domain>` |
+| `tunnel service install` error | Perintahnya `cloudflared service install` (tanpa `tunnel`); untuk 2+ tunnel pakai unit systemd terpisah seperti `deploy/cloudflared-hari-guru.service` |

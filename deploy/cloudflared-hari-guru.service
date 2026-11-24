@@ -1,0 +1,17 @@
+# Unit systemd untuk tunnel hari-guru (terpisah dari tunnel lain).
+# Pemasangan:
+#   cp deploy/cloudflared-hari-guru.service /etc/systemd/system/
+#   systemctl daemon-reload && systemctl enable --now cloudflared-hari-guru
+[Unit]
+Description=Cloudflare Tunnel for rpledass.my.id (hari-guru)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/cloudflared tunnel --config /root/.cloudflared/config.yml run 1ec81434-37e2-4a69-9a4c-32b26a9f880a
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
