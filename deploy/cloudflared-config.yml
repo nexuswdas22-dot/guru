@@ -1,0 +1,13 @@
+# Config Cloudflare Tunnel (nama tunnel: hari-guru)
+# ID di bawah diisi otomatis oleh langkah di SETUP.md,
+# atau ganti DOMAIN.COM dengan domain kamu.
+tunnel: TUNNEL_UUID
+credentials-file: /root/.cloudflared/TUNNEL_UUID.json
+
+ingress:
+  - hostname: DOMAIN.COM
+    service: http://127.0.0.1:80
+  - hostname: www.DOMAIN.COM
+    service: http://127.0.0.1:80
+  # Semua hostname lain ditolak
+  - service: http_status:404
